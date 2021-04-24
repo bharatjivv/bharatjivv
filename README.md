@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharat Jiwnani or @bharatjivv
 - 👀 I always dreamt of having an online trash, then I found Github   /* JUST KIDDING  */
-- 🌱 I’m currently learning everything available online because I'm in 3rd tier college
+- 🌱 I’m currently learning everything I can...
 - 📫 Wanna reach me. DM me on instagram @bharat_jiwnani
 
 <!---
