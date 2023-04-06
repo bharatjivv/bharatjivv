@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Bharat Jiwnani or @bharatjivv
-- 👀 I always dreamt of having an online trash, then I found Github   /* JUST KIDDING  */
-- 🌱 I’m currently learning everything I can...
-- 📫 Wanna reach me. DM me on instagram @bharat_jiwnani
+- 👋 Hello, I'm Tate.
+- Unmatched Perspicacity.
+- Reach out to me at bharatjedu@gmail.com
 
 <!---
 bharatjivv/bharatjivv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
